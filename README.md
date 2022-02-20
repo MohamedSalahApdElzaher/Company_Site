@@ -14,3 +14,5 @@
 - force vs soft deletion
 - Image resize with Image Intervention Package
 - multiple Images upload and more amazing functionality.
+
+https://user-images.githubusercontent.com/47748059/154846503-cefdc5e0-c5bb-4bc6-b339-09b39f176913.mp4
